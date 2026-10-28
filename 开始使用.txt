@@ -1,0 +1,10 @@
+OLS 启动器 0.4.0 预览版
+
+双击 OLSLauncher.exe 启动。请完整解压此文件夹，不要只取出 EXE。
+
+使用说明：docs/README.md
+技术文档：docs/TECHNICAL.md
+验证记录与功能边界：docs/VERIFICATION.md
+
+好友服务端单独提供。首次正版登录需配置本启动器自己的 Microsoft Client ID。
+樱花签到会打开应用内官方页面，必要的登录和人机验证需要手动完成。

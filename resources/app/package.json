@@ -1,0 +1,6 @@
+{
+  "name": "qinglan-launcher",
+  "productName": "OLS 启动器",
+  "version": "0.4.0",
+  "main": "dist-electron/main.cjs"
+}
